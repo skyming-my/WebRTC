@@ -1,0 +1,14 @@
+apply plugin: "java-library"
+apply plugin: "groovy"
+
+repositories {
+    mavenLocal()
+    jcenter()
+}
+
+dependencies {
+    implementation gradleApi()
+    implementation localGroovy()
+
+    implementation "org.ow2.asm:asm-tree:5.0.1"
+}
