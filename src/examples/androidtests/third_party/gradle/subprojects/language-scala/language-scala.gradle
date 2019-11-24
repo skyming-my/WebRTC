@@ -1,0 +1,18 @@
+
+// Compiler daemon
+sourceCompatibility = 1.6
+
+dependencies {
+    compile project(":core")
+    compile project(":platformJvm")
+    compile project(":languageJava")
+    compile project(":languageJvm")
+
+    compileOnly libraries.zinc
+}
+
+strictCompile()
+useTestFixtures()
+useTestFixtures(project: ":languageJvm", sourceSet: 'testFixtures')
+useTestFixtures(project: ":platformBase")
+useTestFixtures(project: ":launcher")
