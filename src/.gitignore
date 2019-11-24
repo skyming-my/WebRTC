@@ -1,0 +1,10 @@
+*.apk
+*.obj
+*.log
+*.txt
+resources/ConferenceMotion_1280_720_50.yuv
+resources/FourPeople_1280x720_30.yuv
+third_party/android_sdk/public/emulator/lib64/vulkan/libvk_swiftshader.so
+third_party/instrumented_libraries/binaries/msan-chained-origins-trusty.tgz
+third_party/instrumented_libraries/binaries/msan-no-origins-trusty.tgz
+third_party/robolectric/lib/android-all-9-robolectric-4913185-2.jar
