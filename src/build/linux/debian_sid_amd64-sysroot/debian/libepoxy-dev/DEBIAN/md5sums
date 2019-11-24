@@ -1,0 +1,12 @@
+6d020ac3be51bfa578f65af07d6cd32b  usr/include/epoxy/common.h
+8269f65094e86ffdffd5cf4c06b4f2c9  usr/include/epoxy/egl.h
+656d3ae9273a3106db2a8eb5351079ea  usr/include/epoxy/egl_generated.h
+c1e5eaa0f159f20ab2422777db6cc4f5  usr/include/epoxy/gl.h
+8517834888804d61d1d4cf77fe3019f0  usr/include/epoxy/gl_generated.h
+2c4f5154d8d924a0cbba5e1f781075ea  usr/include/epoxy/glx.h
+0382fa88d2eb68b163c241d90883a9ab  usr/include/epoxy/glx_generated.h
+5edd6492f5f9630f3313b5d5fa356b24  usr/lib/x86_64-linux-gnu/pkgconfig/epoxy.pc
+5e61f9ac3a0d818180d493e8ef56c2ed  usr/share/doc/libepoxy-dev/README.Debian
+7419783c668973d00562a10b16ee0c76  usr/share/doc/libepoxy-dev/README.md.gz
+e15c6f270515e5fe4b6d5a375535e606  usr/share/doc/libepoxy-dev/changelog.Debian.gz
+05813c43b741581b857d1ffc2fed486c  usr/share/doc/libepoxy-dev/copyright

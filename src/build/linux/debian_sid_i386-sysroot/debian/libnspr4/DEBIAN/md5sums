@@ -1,0 +1,6 @@
+990c9f8a3e542c2f767f299f5eedec4b  usr/lib/i386-linux-gnu/libnspr4.so
+f7ae61ca5ccc602a9353ead028708ef2  usr/lib/i386-linux-gnu/libplc4.so
+5b291ab63614181db1ed472fe9df63f0  usr/lib/i386-linux-gnu/libplds4.so
+816c145e8998f48696b17df3f1d75e96  usr/share/doc/libnspr4/changelog.Debian.gz
+9951d8181eb9aa4bfe41088480d3acbb  usr/share/doc/libnspr4/copyright
+5d41a5a2c751c02074e360be9f32ba1a  usr/share/lintian/overrides/libnspr4
