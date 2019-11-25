@@ -7,4 +7,4 @@ solutions = [
     "custom_deps": {},
   },
 ]
-target_os = ["android","unix","ios","mac"]
+target_os = ["win","android","unix","ios","mac"]
